@@ -1,0 +1,7 @@
+name: MultiPromotions
+main: ru.nukkit.promotions.MultiPromotions
+version: "0.0.1"
+author: fromgate, nukkit.ru
+api: ["1.0.0"]
+depend: [Multipass, DbLib]
+description: Promotions for your server
